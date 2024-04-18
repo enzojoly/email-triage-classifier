@@ -1,0 +1,14 @@
+transformers
+torch
+scikit-learn
+Faker
+numpy
+pandas
+matplotlib
+fastapi
+seaborn
+requests
+jupyterlab
+sentencepiece
+python-multipart
+ipywidgets
