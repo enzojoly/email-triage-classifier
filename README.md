@@ -4,7 +4,7 @@ IT service ticket email classifier - an experiment to see if IT support emails c
 
 1. "git clone" the repository
 
-2. cd into "jupyter"
+2. cd into "jupyter/"
 
 3. run cmd
 
